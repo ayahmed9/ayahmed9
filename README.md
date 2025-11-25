@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Alvi 👋
 
-<!--
-**ayahmed9/ayahmed9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring IT Support & Cybersecurity professional.
 
-Here are some ideas to get you started:
+## 🔧 Building Skills In
+- C++
+- Python
+- SQL
+- Linux
+- Networking
+- Security fundamentals
+- Cloud Basics (AWS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Focus
+- Working through TryHackMe (SOC Level 1 + Cyber Defense)
+- Completing Linux and Python fundamentals
+- Preparing for CompTIA A+, Network+, and Security+
+- Building small IT and security-related projects
+
+## 📂 What You'll Find Here
+- Python practice scripts
+- Linux notes and CLI exercises
+- Security labs & TryHackMe writeups
+- IT troubleshooting mini-projects
+- Coursework projects as I progress through WGU
+
+Always learning. Always building. 🚀
